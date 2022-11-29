@@ -1,0 +1,43 @@
+body{
+    margin: 0%;
+}
+img{
+    height: 191.5px;
+    width: 340.5px;
+    border-radius: 33px;
+    display: inline-block
+}
+nav{
+    background-color: black;
+    height: 15%;
+}
+.header-text{
+    color: white;
+    display: inline-block;
+    margin-top: 0%; 
+    border: solid blue;
+    vertical-align: top;
+}
+.logo{
+    display: inline-block;
+}
+ul{
+    border: solid blue;
+    float: right;
+}
+
+h2{
+    margin: 0%;
+    border: solid blue;
+}
+
+h1{
+    margin: 0px;
+}
+p{
+    margin: 0%;
+}
+a{
+    text-decoration: underline;
+    color: white;
+}
